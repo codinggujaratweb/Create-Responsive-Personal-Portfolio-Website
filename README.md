@@ -1,5 +1,5 @@
 # Portfolio Responsive Complete
-## [Live Preview](https://amanayak.github.io/Create-Responsive-Personal-Portfolio-Website/)
+## [Live Preview](https://codinggujaratweb.github.io/Create-Responsive-Personal-Portfolio-Website/)
 ### Portfolio Responsive Complete
 
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
